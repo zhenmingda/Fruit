@@ -5,4 +5,5 @@ public class eew {
 int i=0;
     int j=454;
     int k=5;
+    int fdff=7;
 }
